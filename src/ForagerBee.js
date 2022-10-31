@@ -1,5 +1,6 @@
 class ForagerBee extends Bee {
   //might have issues extending from same class
+  //nevermind I accidentally put semi colon inside parentheses
   constructor() {
     super();
 
